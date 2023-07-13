@@ -23,14 +23,20 @@ import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import tmobile from "./company/tmobile.png";
+import directlink from "./company/directlink.png";
+import lcm from "./company/lcm.png";
+import cityofsyracuse from "./company/cityofsyracuse.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
+  directlink,
+  tmobile,
+  lcm,
+  cityofsyracuse,
   logo,
   backend,
   it,
@@ -54,8 +60,6 @@ export {
   threejs,
   meta,
   shopify,
-  starbucks,
-  tesla,
   carrent,
   jobit,
   tripguide,
