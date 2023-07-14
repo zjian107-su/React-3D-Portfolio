@@ -13,18 +13,18 @@ import {
   nodejs,
   mongodb,
   git,
-  figma,
   docker,
-  meta,
   tmobile,
   directlink,
   lcm,
   cityofsyracuse,
-  shopify,
   carrent,
   jobit,
   tripguide,
-  threejs,
+  angular,
+  aws,
+  python,
+  elixir,
 } from "../assets";
 
 export const navLinks = [
@@ -88,6 +88,22 @@ const technologies = [
     icon: redux,
   },
   {
+    name: "Angular",
+    icon: angular,
+  },
+  {
+    name: "AWS",
+    icon: aws,
+  },
+  {
+    name: "Python",
+    icon: python,
+  },
+  {
+    name: "Elixir",
+    icon: elixir,
+  },
+  {
     name: "Tailwind CSS",
     icon: tailwind,
   },
@@ -100,16 +116,8 @@ const technologies = [
     icon: mongodb,
   },
   {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
     name: "git",
     icon: git,
-  },
-  {
-    name: "figma",
-    icon: figma,
   },
   {
     name: "docker",

@@ -20,6 +20,10 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import elixir from "./tech/elixir.png";
+import angular from "./tech/angular.png";
+import aws from "./tech/aws.png";
+import python from "./tech/python.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -63,4 +67,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  elixir,
+  angular,
+  aws,
+  python,
 };
