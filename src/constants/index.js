@@ -211,7 +211,7 @@ const testimonials = [
 // Todo - Daniel
 const projects = [
   {
-    name: "Todo with React (Front-End)",
+    name: "Todo with React",
     description:
       "Web-based platform that allows users to perform CRUD operation on a todo list",
     tags: [
@@ -232,9 +232,9 @@ const projects = [
     source_code_link: "https://github.com/zjian107-su/Radioactive-React",
   },
   {
-    name: "Todoo with Angular (Full-Stack)",
+    name: "Todoo with Angular",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web application that enables users to interact with a backend database to perform CRUD operation on a todo list",
     tags: [
       {
         name: "angular",
@@ -250,7 +250,6 @@ const projects = [
       },
       {
         name: "express",
-        // other than existing colors
         color: "purple-text-gradient",
       },
     ],
