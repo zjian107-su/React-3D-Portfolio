@@ -32,11 +32,14 @@ import directlink from "./company/directlink.png";
 import lcm from "./company/lcm.png";
 import cityofsyracuse from "./company/cityofsyracuse.png";
 
-import carrent from "./carrent.png";
+import todoreact from "./todoreact.png";
+import todoangular from "./todoangular.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
+  todoangular,
+  todoreact,
   directlink,
   tmobile,
   lcm,
@@ -64,7 +67,6 @@ export {
   threejs,
   meta,
   shopify,
-  carrent,
   jobit,
   tripguide,
   elixir,

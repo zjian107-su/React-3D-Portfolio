@@ -18,7 +18,8 @@ import {
   directlink,
   lcm,
   cityofsyracuse,
-  carrent,
+  todoreact,
+  todoangular,
   jobit,
   tripguide,
   angular,
@@ -207,18 +208,19 @@ const testimonials = [
   },
 ];
 
+// Todo - Daniel
 const projects = [
   {
-    name: "Car Rent",
+    name: "Todo with React (Front-End)",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that allows users to perform CRUD operation on a todo list",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "context-api",
         color: "green-text-gradient",
       },
       {
@@ -226,29 +228,34 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: todoreact,
+    source_code_link: "https://github.com/zjian107-su/Radioactive-React",
   },
   {
-    name: "Job IT",
+    name: "Todoo with Angular (Full-Stack)",
     description:
       "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
     tags: [
       {
-        name: "react",
-        color: "blue-text-gradient",
+        name: "angular",
+        color: "orange-text-gradient",
       },
       {
-        name: "restapi",
+        name: "observable",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "node",
         color: "pink-text-gradient",
       },
+      {
+        name: "express",
+        // other than existing colors
+        color: "purple-text-gradient",
+      },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: todoangular,
+    source_code_link: "https://github.com/zjian107-su/Angular-ToDo",
   },
   {
     name: "Trip Guide",
