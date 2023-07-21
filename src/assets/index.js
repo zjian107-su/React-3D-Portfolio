@@ -36,6 +36,14 @@ import todoreact from "./todoreact.png";
 import todoangular from "./todoangular.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import webapi from "./webapi.png";
+import dogtraining from "./dogtraining.png";
+import dogsentiment from "./dogsentiment.png";
+import elixiridenticon from "./elixiridenticon.png";
+
+import bennichols from "./person/bennichols.png";
+import remycrespo from "./person/remycrespo.png";
+import alannguyen from "./person/alannguyen.png";
 
 export {
   todoangular,
@@ -73,4 +81,11 @@ export {
   angular,
   aws,
   python,
+  webapi,
+  dogtraining,
+  dogsentiment,
+  elixiridenticon,
+  bennichols,
+  remycrespo,
+  alannguyen,
 };
