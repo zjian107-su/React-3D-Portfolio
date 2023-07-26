@@ -108,10 +108,6 @@ const technologies = [
     icon: python,
   },
   {
-    name: "Elixir",
-    icon: elixir,
-  },
-  {
     name: "Tailwind CSS",
     icon: tailwind,
   },
@@ -122,10 +118,6 @@ const technologies = [
   {
     name: "MongoDB",
     icon: mongodb,
-  },
-  {
-    name: "git",
-    icon: git,
   },
   {
     name: "docker",
