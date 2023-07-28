@@ -258,7 +258,7 @@ const projects = [
   {
     name: "Dog Training with React",
     description:
-      "Open source dog training website that helps you train an obidient and well-behaved puppy",
+      "Open source dog training website that helps you train an obedient and well-behaved puppy",
     tags: [
       {
         name: "react",
